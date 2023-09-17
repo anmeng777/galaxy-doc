@@ -1,5 +1,5 @@
 module.exports = {
-    base : '',
+    base : './',
     title: 'Galaxy Docs',
     description: '为了梦想，努力奋斗',
 	dest : "dist",
