@@ -16,13 +16,23 @@
 
 
 ## 学习Java的途径
+本教程的视频教程链接为：https://space.bilibili.com/1678760
+
+### 其他教程
+菜鸟教程: https://www.runoob.com/java/java-tutorial.html
+Springboot 1.x: https://www.didispace.com/spring-boot-1/
+Springboot 2.x: https://www.didispace.com/spring-boot-2/
+Springcloud: https://www.didispace.com/spring-cloud/
 
 ## 学习Java的时间
+按照个人空余时间, 一般在4个月以上
 
 ## 学习Java的费用
+* 自学费用: 0
+* 线下培训班费用: 2万左右
+* 线上培训班费用: 价格不等, 一般在几百以上
 
 ## 学习Java的收益
-
-
-
-
+* 国内薪资: 10k-20k
+* 日本薪资: 20万-50万
+* 拥有一份技术相关的技能, 有助于自己的职业发展
